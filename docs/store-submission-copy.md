@@ -101,3 +101,54 @@ Add under `### 💬 Communication`:
 ```markdown
 - [tponnam/emitd-mcp-server](https://github.com/tponnam/emitd-mcp-server) 🎖️ ☁️ - Transactional and broadcast email for AI agents: sending, message activity, templates, contacts, automations, and inbound mail with security guardrails.
 ```
+
+---
+
+## 8. Agentic AI & AI Agent Directories
+
+### A. AiAgentsDirectory.com
+- **Submission URL:** [aiagentsdirectory.com/submit](https://aiagentsdirectory.com/submit)
+- **Agent Name:** `Emitd Email Agent & MCP Server`
+- **Category:** `Developer Tools` / `Marketing & Sales` / `Communication`
+- **Short Tagline:** `Edge-fast email sending, tracking, automations, and inbound mail for AI agents.`
+- **Integrations:** `MCP (Model Context Protocol)`, `OpenAPI`, `REST API`
+- **Pricing:** `Freemium` (Free tier + usage-based pricing)
+- **Website:** `https://emitd.com`
+- **Logo:** `https://emitd.com/apple-icon.png`
+
+### B. There's An AI For That (TAAFT)
+- **Submission URL:** [theresanaiforthat.com/submit](https://theresanaiforthat.com/submit)
+- **Tool Name:** `Emitd`
+- **Category:** `Email Automation`, `Developer Tools`, `AI Agents`
+- **Short Pitch:** `Send, track, and receive email from AI agents with native Model Context Protocol support and security guardrails.`
+- **Website URL:** `https://emitd.com`
+
+### C. Agentic.ai
+- **Submission URL:** [agentic.ai/submit](https://agentic.ai/submit)
+- **Vendor/Product:** `Emitd`
+- **Agentic Capabilities:** `Autonomous email sending loops, deduplication guardrails, approval queues for high-risk actions, template management, and inbound webhook processing.`
+- **API / MCP Endpoint:** `https://mcp.emitd.com/mcp`
+
+### D. Toolify.ai
+- **Submission URL:** [toolify.ai/submit](https://www.toolify.ai/submit)
+- **Tool Name:** `Emitd Email MCP`
+- **Category:** `AI Developer Tools` / `Email Assistant`
+- **Website:** `https://emitd.com`
+
+### E. Futurepedia.io
+- **Submission URL:** [futurepedia.io/submit](https://www.futurepedia.io/submit)
+- **Tool Name:** `Emitd`
+- **Key Features:** `Hosted MCP endpoint for Claude, Cursor, and custom agents; 72 email operations; edge performance on Cloudflare Workers.`
+- **Website:** `https://emitd.com`
+
+### F. Composio Marketplace
+- **Partner Request:** [request.composio.dev/boards/tool-requests](https://request.composio.dev/boards/tool-requests)
+- **Application:** [composio.dev/partnerships#apply](https://composio.dev/partnerships#apply)
+- **Integration Pitch:** `Emitd Email Toolkit — native MCP & REST email execution for LangChain, CrewAI, AutoGen, and Claude agents with built-in human-in-the-loop approval guardrails.`
+
+### G. OpenAI GPT Store (Custom GPT Action)
+- **Setup in ChatGPT:** Create a Custom GPT > Configure > Actions > Import from URL:
+  - **OpenAPI URL:** `https://emitd.com/openapi.yaml`
+  - **Authentication Type:** `API Key` (Bearer)
+  - **Privacy Policy:** `https://emitd.com/privacy`
+
