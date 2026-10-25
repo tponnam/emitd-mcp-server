@@ -1,0 +1,19 @@
+runtime: "http"
+startCommand:
+  type: "http"
+  url: "https://mcp.emitd.com/mcp"
+configSchema:
+  type: "object"
+  required:
+    - apiKey
+  properties:
+    apiKey:
+      type: "string"
+      title: "Emitd API Key"
+      description: "Your Emitd API key, passed as Bearer token in the Authorization header"
+      meta:
+        x-to:
+          header: "Authorization"
+          prefix: "Bearer "
+exampleConfig:
+  apiKey: "esk_live_..."

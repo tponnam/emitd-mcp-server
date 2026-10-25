@@ -15,7 +15,7 @@
 - [x] Test a connection using a valid test API key (live initialization, 72 tools, and 4 resources verified).
 - [x] Check the exact live tool inventory with a test client (72 tools discovered and verified).
 - [x] Add an official support contact if required (hello@emitd.com).
-- [ ] Decide whether to add a license. Do not imply open-source licensing without one.
+- [x] Added MIT License ([LICENSE](LICENSE)).
 - [x] Recheck each store's current form, policy, and price (MCP Market, Glama, Smithery, MCP.so).
 - [x] Never commit a live API key.
 

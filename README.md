@@ -87,4 +87,4 @@ Please do not submit secrets, customer data, or sensitive email content in issue
 
 ## License
 
-No open-source license has been specified for this repository. Unless the repository owner adds a license, do not assume that the content is licensed for reuse.
+MIT License. See [LICENSE](LICENSE) for details.
