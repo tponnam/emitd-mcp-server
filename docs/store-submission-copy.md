@@ -13,8 +13,8 @@ Emitd hosts a Model Context Protocol server for integrating supported email oper
 - Website: https://emitd.com
 - Documentation: https://docs.emitd.com/docs/guides/agents
 - Remote MCP endpoint: https://mcp.emitd.com/mcp
-- GitHub repository: add the actual public repository URL after creation
-- Support contact: not supplied; add the official support address or URL if a store requires it
+- GitHub repository: https://github.com/tponnam/emitd-mcp-server
+- Support contact: hello@emitd.com
 
 ## MCP Market
 
@@ -24,7 +24,7 @@ Emitd hosts a Model Context Protocol server for integrating supported email oper
 - Description: Use the canonical long description above.
 - Try Now URL (if using the paid listing): https://emitd.com/?utm_source=mcpmarket&utm_medium=directory&utm_campaign=mcp_launch
 - Documentation: https://docs.emitd.com/docs/guides/agents
-- Repository: use the actual public repository URL after this repository is published.
+- Repository: https://github.com/tponnam/emitd-mcp-server
 
 ## Glama
 
