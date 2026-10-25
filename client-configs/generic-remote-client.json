@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "emitd": {
+      "url": "https://mcp.emitd.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${EMITD_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.emitd/emitd",
+  "title": "Emitd MCP Server",
+  "description": "Connect AI agents and MCP-compatible clients to Emitd's hosted email platform through the Model Context Protocol.",
+  "version": "1.0.0",
+  "websiteUrl": "https://docs.emitd.com/docs/guides/agents",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.emitd.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Emitd API key using the Bearer scheme. Create a restricted key in the Emitd console.",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
