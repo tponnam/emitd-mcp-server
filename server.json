@@ -1,0 +1,38 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.emitd/emitd",
+  "title": "Emitd MCP Server",
+  "description": "Connect AI agents to Emitd email sending, message tracking, templates, and automations.",
+  "version": "1.0.1",
+  "websiteUrl": "https://emitd.com",
+  "icons": [
+    {
+      "src": "https://emitd.com/apple-icon.png",
+      "format": "png",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "src": "https://emitd.com/icon.svg",
+      "format": "svg"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/tponnam/emitd-mcp-server",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.emitd.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Emitd API key sent using the Bearer authentication scheme. Generate an API key in your Emitd account and keep it secret.",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
